@@ -209,8 +209,11 @@ The application uses **Redis (Upstash)** as its persistence layer.
 
 ## Deployment
 
-- **Frontend:** Vercel
-- **Backend:** Vercel
+- **Frontend:** Vercel   (  https://pastebin-lite-tg9k.vercel.app/ )
+
+- **Backend:** Vercel    (  https://pastebin-lite-chi.vercel.app/  )
+
 - **Persistence:** Upstash Redis
+
 
 
